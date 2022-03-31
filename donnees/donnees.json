@@ -1,0 +1,802 @@
+[
+  {
+    "classement": 1,
+    "titre": "Takyon (Death Yon)",
+    "auteur": "Death Grips",
+    "type": "Single",
+    "annee": 2011,
+    "note": "4,3"
+  },
+  {
+    "classement": 2,
+    "titre": "The Money Store",
+    "auteur": "Death Grips",
+    "type": "Album",
+    "annee": 2012,
+    "note": "4,03"
+  },
+  {
+    "classement": 3,
+    "titre": "Atrocity Exhibition",
+    "auteur": "Danny Brown",
+    "type": "Album",
+    "annee": 2016,
+    "note": "4,09"
+  },
+  {
+    "classement": 4,
+    "titre": "Ain't It Funny / Worth It",
+    "auteur": "Danny Brown",
+    "type": "Single",
+    "annee": 2017,
+    "note": "4,22"
+  },
+  {
+    "classement": 5,
+    "titre": "Soundtracks for the Blind",
+    "auteur": "Swans",
+    "type": "Album",
+    "annee": 1996,
+    "note": "4,12"
+  },
+  {
+    "classement": 6,
+    "titre": "Tago Mago",
+    "auteur": "Can",
+    "type": "Album",
+    "annee": 1971,
+    "note": "4,07"
+  },
+  {
+    "classement": 7,
+    "titre": "I've Seen Footage",
+    "auteur": "Death Grips",
+    "type": "Single",
+    "annee": 2012,
+    "note": 4.17
+  },
+  {
+    "classement": 8,
+    "titre": "Mezzanine",
+    "auteur": "Massive Attack",
+    "type": "Album",
+    "annee": 1998,
+    "note": 4.03
+  },
+  {
+    "classement": 9,
+    "titre": "The Downward Spiral",
+    "auteur": "Nine Inch Nails",
+    "type": "Album",
+    "annee": 1994,
+    "note": 4.02
+  },
+  {
+    "classement": 10,
+    "titre": "Deathconsciousness",
+    "auteur": "Have a Nice Life",
+    "type": "Album",
+    "annee": 2008,
+    "note": 4.02
+  },
+  {
+    "classement": 11,
+    "titre": "Exmilitary",
+    "auteur": "Death Grips",
+    "type": "Mixtape",
+    "annee": 2011,
+    "note": 4.03
+  },
+  {
+    "classement": 12,
+    "titre": "The Inmost Light",
+    "auteur": "Current 93",
+    "type": "Compilation",
+    "annee": 2007,
+    "note": 4.16
+  },
+  {
+    "classement": 13,
+    "titre": "Baby I'm Bleeding",
+    "auteur": "JPEGMAFIA",
+    "type": "Single",
+    "annee": 2017,
+    "note": 4.11
+  },
+  {
+    "classement": 14,
+    "titre": "Angel",
+    "auteur": "Massive Attack",
+    "type": "Single",
+    "annee": 1998,
+    "note": 4.14
+  },
+  {
+    "classement": 15,
+    "titre": "Silent Hill 2",
+    "auteur": "Akira Yamaoka",
+    "type": "Album",
+    "annee": 2001,
+    "note": 4.1
+  },
+  {
+    "classement": 16,
+    "titre": "Hurt",
+    "auteur": "Nine Inch Nails",
+    "type": "Single",
+    "annee": 1995,
+    "note": 4.08
+  },
+  {
+    "classement": 17,
+    "titre": "Machine Gun",
+    "auteur": "Portishead",
+    "type": "Single",
+    "annee": 2008,
+    "note": 4.09
+  },
+  {
+    "classement": 18,
+    "titre": "Teqkilla",
+    "auteur": "M.I.A.",
+    "type": "Single",
+    "annee": 2010,
+    "note": 4.08
+  },
+  {
+    "classement": 19,
+    "titre": "Number 1 Angel / Pop 2",
+    "auteur": "Charli XCX",
+    "type": "Compilation",
+    "annee": 2018,
+    "note": 4.08
+  },
+  {
+    "classement": 20,
+    "titre": "Moon's Milk (In Four Phases)",
+    "auteur": "Coil",
+    "type": "Compilation",
+    "annee": 2002,
+    "note": 4.08
+  },
+  {
+    "classement": 21,
+    "titre": "Yume Nikki Original Soundtrack",
+    "auteur": "Kikiyama",
+    "type": "Unauthorized",
+    "annee": 2016,
+    "note": 4.09
+  },
+  {
+    "classement": 22,
+    "titre": "You Won't Get What You Want",
+    "auteur": "Daughters",
+    "type": "Album",
+    "annee": 2018,
+    "note": 3.91
+  },
+  {
+    "classement": 23,
+    "titre": "Adolescence: The Complete Recordings 1994-2001",
+    "auteur": "Regis",
+    "type": "Compilation",
+    "annee": 2011,
+    "note": 4.07
+  },
+  {
+    "classement": 24,
+    "titre": "Closer",
+    "auteur": "Nine Inch Nails",
+    "type": "Single",
+    "annee": 1994,
+    "note": 4.02
+  },
+  {
+    "classement": 25,
+    "titre": "The Powers That B",
+    "auteur": "Death Grips",
+    "type": "Compilation",
+    "annee": 2015,
+    "note": 3.95
+  },
+  {
+    "classement": 26,
+    "titre": "Sad Day",
+    "auteur": "FKA twigs",
+    "type": "Single",
+    "annee": 2019,
+    "note": 4.04
+  },
+  {
+    "classement": 27,
+    "titre": "The Reason They Hate Me",
+    "auteur": "Daughters",
+    "type": "Single",
+    "annee": 2018,
+    "note": 4.03
+  },
+  {
+    "classement": 28,
+    "titre": "Bone Machine",
+    "auteur": "Tom Waits",
+    "type": "Album",
+    "annee": 1992,
+    "note": 3.98
+  },
+  {
+    "classement": 29,
+    "titre": "Everywhere at the End of Time",
+    "auteur": "The Caretaker",
+    "type": "Compilation",
+    "annee": 2019,
+    "note": 3.93
+  },
+  {
+    "classement": 30,
+    "titre": "NTS Sessions 1-4",
+    "auteur": "Autechre",
+    "type": "Compilation",
+    "annee": 2018,
+    "note": 4.03
+  },
+  {
+    "classement": 31,
+    "titre": "Vroom Vroom",
+    "auteur": "Charli XCX",
+    "type": "Single",
+    "annee": 2016,
+    "note": 3.96
+  },
+  {
+    "classement": 32,
+    "titre": "Hotline Miami 2: Wrong Number",
+    "auteur": "Various Artists",
+    "type": "Compilation",
+    "annee": 2015,
+    "note": 4.05
+  },
+  {
+    "classement": 33,
+    "titre": "The Legend of Zelda: Majora's Mask",
+    "auteur": "Koji Kondo",
+    "type": "Album",
+    "annee": 2000,
+    "note": 4.01
+  },
+  {
+    "classement": 34,
+    "titre": "Mother 2",
+    "auteur": "Keiichi Suzuki",
+    "type": "Album",
+    "annee": 1994,
+    "note": 4.02
+  },
+  {
+    "classement": 35,
+    "titre": "Ocarina of Time",
+    "auteur": "Koji Kondo",
+    "type": "Album",
+    "annee": 1998,
+    "note": 4.01
+  },
+  {
+    "classement": 36,
+    "titre": "Twin Peaks: Fire Walk With Me",
+    "auteur": "Angelo Badalamenti",
+    "type": "Album",
+    "annee": 1992,
+    "note": 4.02
+  },
+  {
+    "classement": 37,
+    "titre": "Thug Tears",
+    "auteur": "JPEGMAFIA",
+    "type": "Single",
+    "annee": 2018,
+    "note": 4
+  },
+  {
+    "classement": 38,
+    "titre": "Third",
+    "auteur": "Portishead",
+    "type": "Album",
+    "annee": 2008,
+    "note": 3.91
+  },
+  {
+    "classement": 39,
+    "titre": "Filosofem",
+    "auteur": "Burzum",
+    "type": "Album",
+    "annee": 1996,
+    "note": 3.9
+  },
+  {
+    "classement": 40,
+    "titre": "Blood of the Fang",
+    "auteur": "clipping.",
+    "type": "Single",
+    "annee": 2019,
+    "note": 3.99
+  },
+  {
+    "classement": 41,
+    "titre": "Say the Name",
+    "auteur": "clipping.",
+    "type": "Single",
+    "annee": 2020,
+    "note": 4.01
+  },
+  {
+    "classement": 42,
+    "titre": "Grief",
+    "auteur": "Earl Sweatshirt",
+    "type": "Single",
+    "annee": 2015,
+    "note": 3.99
+  },
+  {
+    "classement": 43,
+    "titre": "The Ape of Naples",
+    "auteur": "Coil",
+    "type": "Album",
+    "annee": 2005,
+    "note": 3.93
+  },
+  {
+    "classement": 44,
+    "titre": "The Shining",
+    "auteur": "Various Artists",
+    "type": "Compilation",
+    "annee": 1980,
+    "note": 4.03
+  },
+  {
+    "classement": 45,
+    "titre": "Jenny Death: The Powers That B Disc 2",
+    "auteur": "Death Grips",
+    "type": "Album",
+    "annee": 2015,
+    "note": 3.92
+  },
+  {
+    "classement": 46,
+    "titre": "Stripped / But Not Tonight",
+    "auteur": "Depeche Mode",
+    "type": "Single",
+    "annee": 1986,
+    "note": 4
+  },
+  {
+    "classement": 47,
+    "titre": "Hard",
+    "auteur": "SOPHIE",
+    "type": "Single",
+    "annee": 2015,
+    "note": 3.96
+  },
+  {
+    "classement": 48,
+    "titre": "The Rich Man's Eight Track Tape",
+    "auteur": "Big Black",
+    "type": "Compilation",
+    "annee": 1987,
+    "note": 4.02
+  },
+  {
+    "classement": 49,
+    "titre": "Body & Blood",
+    "auteur": "clipping.",
+    "type": "Single",
+    "annee": 2014,
+    "note": 3.99
+  },
+  {
+    "classement": 50,
+    "titre": "Black Skinhead",
+    "auteur": "Kanye West",
+    "type": "Single",
+    "annee": 2013,
+    "note": 3.97
+  },
+  {
+    "classement": 51,
+    "titre": "The Fragile",
+    "auteur": "Nine Inch Nails",
+    "type": "Album",
+    "annee": 1999,
+    "note": 3.9
+  },
+  {
+    "classement": 52,
+    "titre": "Symphonic Suite AKIRA",
+    "auteur": "Geinoh Yamashirogumi",
+    "type": "Album",
+    "annee": 1988,
+    "note": 3.98
+  },
+  {
+    "classement": 53,
+    "titre": "Children of God - World of Skin",
+    "auteur": "Swans",
+    "type": "Compilation",
+    "annee": 1997,
+    "note": 3.98
+  },
+  {
+    "classement": 54,
+    "titre": "Yeezus",
+    "auteur": "Kanye West",
+    "type": "Album",
+    "annee": 2013,
+    "note": 3.76
+  },
+  {
+    "classement": 55,
+    "titre": "Not in Love",
+    "auteur": "Crystal Castles",
+    "type": "Single",
+    "annee": 2010,
+    "note": 3.94
+  },
+  {
+    "classement": 56,
+    "titre": "Get Got",
+    "auteur": "Death Grips",
+    "type": "Single",
+    "annee": 2012,
+    "note": 3.95
+  },
+  {
+    "classement": 57,
+    "titre": "Bottomless Pit",
+    "auteur": "Death Grips",
+    "type": "Album",
+    "annee": 2016,
+    "note": 3.83
+  },
+  {
+    "classement": 58,
+    "titre": "Heat",
+    "auteur": "Brockhampton",
+    "type": "Single",
+    "annee": 2017,
+    "note": 3.95
+  },
+  {
+    "classement": 59,
+    "titre": "The Big Gloom",
+    "auteur": "Have a Nice Life",
+    "type": "Single",
+    "annee": 2006,
+    "note": 3.97
+  },
+  {
+    "classement": 60,
+    "titre": "Selected Ambient Works Volume II",
+    "auteur": "Aphex Twin",
+    "type": "Album",
+    "annee": 1994,
+    "note": 3.87
+  },
+  {
+    "classement": 61,
+    "titre": "Failure / Animus",
+    "auteur": "Swans",
+    "type": "Single",
+    "annee": 1996,
+    "note": 4
+  },
+  {
+    "classement": 62,
+    "titre": "Kerosene / Il Duce",
+    "auteur": "Big Black",
+    "type": "Single",
+    "annee": 1992,
+    "note": 3.96
+  },
+  {
+    "classement": 63,
+    "titre": "Pain Everyday",
+    "auteur": "clipping.",
+    "type": "Single",
+    "annee": 2020,
+    "note": 3.94
+  },
+  {
+    "classement": 64,
+    "titre": "By the Time I Get to Phoenix",
+    "auteur": "Injury Reserve",
+    "type": "Album",
+    "annee": 2021,
+    "note": 3.86
+  },
+  {
+    "classement": 65,
+    "titre": "Daughter of Darkness",
+    "auteur": "Natural Snow Buildings",
+    "type": "Album",
+    "annee": 2009,
+    "note": 3.91
+  },
+  {
+    "classement": 66,
+    "titre": "Jesus Forgive Me, I Am a Thot",
+    "auteur": "JPEGMAFIA",
+    "type": "Single",
+    "annee": 2019,
+    "note": 3.92
+  },
+  {
+    "classement": 67,
+    "titre": "Twin Peaks: Limited Event Series Soundtrack",
+    "auteur": "Angelo Badalamenti",
+    "type": "Album",
+    "annee": 2017,
+    "note": 3.93
+  },
+  {
+    "classement": 68,
+    "titre": "I Luv U",
+    "auteur": "Dizzee Rascal",
+    "type": "Single",
+    "annee": 2003,
+    "note": 3.93
+  },
+  {
+    "classement": 69,
+    "titre": "Minecraft: Volume Beta",
+    "auteur": "C418",
+    "type": "Album",
+    "annee": 2013,
+    "note": 3.92
+  },
+  {
+    "classement": 70,
+    "titre": "Steroids (Crouching Tiger Hidden Gabber Megamix)",
+    "auteur": "Death Grips",
+    "type": "EP",
+    "annee": 2017,
+    "note": 3.87
+  },
+  {
+    "classement": 71,
+    "titre": "Kyuusai no gihou",
+    "auteur": "Susumu Hirasawa",
+    "type": "Album",
+    "annee": 1998,
+    "note": 3.92
+  },
+  {
+    "classement": 72,
+    "titre": "The Money Store: First 6 Tracks",
+    "auteur": "Death Grips",
+    "type": "EP",
+    "annee": 2012,
+    "note": 3.89
+  },
+  {
+    "classement": 73,
+    "titre": "Musick to Play in the Dark",
+    "auteur": "Coil",
+    "type": "Album",
+    "annee": 1999,
+    "note": 3.88
+  },
+  {
+    "classement": 74,
+    "titre": "World in My Eyes / Happiest Girl / Sea of Sin",
+    "auteur": "Depeche Mode",
+    "type": "Single",
+    "annee": 1990,
+    "note": 3.94
+  },
+  {
+    "classement": 75,
+    "titre": "The Great Annihilator",
+    "auteur": "Swans",
+    "type": "Album",
+    "annee": 1995,
+    "note": 3.86
+  },
+  {
+    "classement": 76,
+    "titre": "Silent Shout",
+    "auteur": "The Knife",
+    "type": "Single",
+    "annee": 2006,
+    "note": 3.94
+  },
+  {
+    "classement": 77,
+    "titre": "Risingson",
+    "auteur": "Massive Attack",
+    "type": "Single",
+    "annee": 1997,
+    "note": 3.93
+  },
+  {
+    "classement": 78,
+    "titre": "Berserk",
+    "auteur": "Susumu Hirasawa",
+    "type": "Album",
+    "annee": 1997,
+    "note": 3.93
+  },
+  {
+    "classement": 79,
+    "titre": "The Idiot",
+    "auteur": "Iggy Pop",
+    "type": "Album",
+    "annee": 1977,
+    "note": 3.85
+  },
+  {
+    "classement": 80,
+    "titre": "The Dance of the Moon and the Sun",
+    "auteur": "Natural Snow Buildings",
+    "type": "Album",
+    "annee": 2006,
+    "note": 3.88
+  },
+  {
+    "classement": 81,
+    "titre": "Mulholland Dr.",
+    "auteur": "Angelo Badalamenti & David Lynch",
+    "type": "Album",
+    "annee": 2001,
+    "note": 3.93
+  },
+  {
+    "classement": 82,
+    "titre": "Faceshopping",
+    "auteur": "SOPHIE",
+    "type": "Single",
+    "annee": 2018,
+    "note": 3.86
+  },
+  {
+    "classement": 83,
+    "titre": "LISA",
+    "auteur": "Widdly 2 Diddly",
+    "type": "Album",
+    "annee": 2014,
+    "note": 3.9
+  },
+  {
+    "classement": 84,
+    "titre": "Atomizer",
+    "auteur": "Big Black",
+    "type": "Album",
+    "annee": 1986,
+    "note": 3.85
+  },
+  {
+    "classement": 85,
+    "titre": "Disco Elysium",
+    "auteur": "British Sea Power",
+    "type": "Album",
+    "annee": 2019,
+    "note": 3.89
+  },
+  {
+    "classement": 86,
+    "titre": "Claws",
+    "auteur": "Charli XCX",
+    "type": "Single",
+    "annee": 2020,
+    "note": 3.85
+  },
+  {
+    "classement": 87,
+    "titre": "Virgins",
+    "auteur": "Tim Hecker",
+    "type": "Album",
+    "annee": 2013,
+    "note": 3.85
+  },
+  {
+    "classement": 88,
+    "titre": "Army of Me",
+    "auteur": "Bjork",
+    "type": "Single",
+    "annee": 1995,
+    "note": 3.9
+  },
+  {
+    "classement": 89,
+    "titre": "In Your Room",
+    "auteur": "Depeche Mode",
+    "type": "Single",
+    "annee": 1994,
+    "note": 3.92
+  },
+  {
+    "classement": 90,
+    "titre": "Broken",
+    "auteur": "Nine Inch Nails",
+    "type": "EP",
+    "annee": 1992,
+    "note": 3.86
+  },
+  {
+    "classement": 91,
+    "titre": "BCD-2",
+    "auteur": "Basic Channel",
+    "type": "Compilation",
+    "annee": 2008,
+    "note": 3.89
+  },
+  {
+    "classement": 92,
+    "titre": "The Powers That B",
+    "auteur": "Death Grips",
+    "type": "Single",
+    "annee": 2015,
+    "note": 3.88
+  },
+  {
+    "classement": 93,
+    "titre": "Shin Megami Tensei III: Nocturne",
+    "auteur": "Shoji Meguro / Toshiko Tasaki / Kenichi Tsuchiya",
+    "type": "Album",
+    "annee": 2003,
+    "note": 3.91
+  },
+  {
+    "classement": 94,
+    "titre": "Silent Hill 3",
+    "auteur": "Akira Yamaoka",
+    "type": "Album",
+    "annee": 2003,
+    "note": 3.89
+  },
+  {
+    "classement": 95,
+    "titre": "Inanimate Sensation",
+    "auteur": "Death Grips",
+    "type": "Single",
+    "annee": 2015,
+    "note": 3.87
+  },
+  {
+    "classement": 96,
+    "titre": "Magdalene",
+    "auteur": "FKA twigs",
+    "type": "Album",
+    "annee": 2019,
+    "note": 3.8
+  },
+  {
+    "classement": 97,
+    "titre": "Made in Abyss",
+    "auteur": "Kevin Penkin",
+    "type": "Album",
+    "annee": 2017,
+    "note": 3.9
+  },
+  {
+    "classement": 98,
+    "titre": "Do You Doubt Me Traitor",
+    "auteur": "Lingua Ignota",
+    "type": "Single",
+    "annee": 2019,
+    "note": 3.86
+  },
+  {
+    "classement": 99,
+    "titre": "Children of God",
+    "auteur": "Swans",
+    "type": "Album",
+    "annee": 1987,
+    "note": 3.81
+  },
+  {
+    "classement": 100,
+    "titre": "Walking in My Shoes",
+    "auteur": "Depeche Mode",
+    "type": "Single",
+    "annee": 1993,
+    "note": 3.9
+  }
+]
